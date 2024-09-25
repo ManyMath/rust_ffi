@@ -1,5 +1,5 @@
 name: rust_ffi
-description: Tools for Rust FFI.
+description: Rust FFI tools.
 version: 0.0.1-dev.1
 repository: https://github.com/ManyMath/rust_ffi
 
